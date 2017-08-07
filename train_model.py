@@ -44,8 +44,8 @@ Y = np.array(Y)
 X = X.reshape(-1, 10, 3)
 
 
-#X = np.array([i[0] for i in train]).reshape(-1,WIDTH,HEIGHT,3)
-#Y = [i[1] for i in train]
+X = np.array([i[0] for i in train]).reshape(-1,WIDTH,HEIGHT,3)
+Y = [i[1] for i in train]
 
 test_x = np.array([i[0] for i in test]).reshape(-1,WIDTH,HEIGHT,3)
 test_y = [i[1] for i in test]
