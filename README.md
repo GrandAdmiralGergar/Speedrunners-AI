@@ -6,6 +6,8 @@ ConvNet that plays Speedrunners
 3) Run main.py to start the AI
 
 Helper Files:
-directkeys.py - for directx key input
+directkeys.py - for directx key input  
+
 getkeys.py - for getting keyboard key states globally
+
 grabscreen.py - to quickly take a screenshot
