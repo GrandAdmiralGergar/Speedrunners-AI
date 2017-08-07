@@ -5,7 +5,8 @@ ConvNet that plays Speedrunners
 2) Run train_model.py to train a new Model
 3) Run main.py to start the AI
 
-Helper Files:
+Helper Files:  
+
 directkeys.py - for directx key input  
 
 getkeys.py - for getting keyboard key states globally
